@@ -15,7 +15,7 @@ The next step is that our oracle will be making cycling requests to **AEternity 
 ```
 git clone https://github.com/DanielaIvanova/smart_oracle_js
 cd smart_oracle_js
-
+npm install
 ```
 2. Now you have to start `cli.js`:
 ```
