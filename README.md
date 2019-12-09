@@ -1,7 +1,7 @@
 # Smart Oracle
 
 ## Description
-**Smart Oracle** is an JS console application, made to automate the oracle job. 
+**Smart Oracle** is a JS console application, made to automate the oracle job. 
 User can load any account or even existing oracle in it.
 
 If the given account **is not** an oracle yet, we register it.
